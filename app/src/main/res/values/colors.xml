@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="robocop_primary">#3B5BFD</color>
+    <color name="robocop_on_primary">#FFFFFF</color>
+    <color name="robocop_background">#0F1115</color>
+</resources>

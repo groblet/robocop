@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Robocop</string>
+    <string name="accessibility_service_description">Lets Robocop watch what you type so it can expand abbreviations, fix typos, and fill forms in any app. Text is processed entirely on this device.</string>
+
+    <string name="nav_snippets">Snippets</string>
+    <string name="nav_autocorrect">Auto-correct</string>
+    <string name="nav_settings">Settings</string>
+
+    <string name="add_snippet">Add snippet</string>
+    <string name="edit_snippet">Edit snippet</string>
+    <string name="trigger_label">Trigger</string>
+    <string name="name_label">Name</string>
+    <string name="content_label">Content</string>
+    <string name="type_label">Type</string>
+    <string name="group_label">Group</string>
+    <string name="case_sensitive_label">Case sensitive</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="search_snippets">Search snippets…</string>
+
+    <string name="settings_accessibility_title">Enable text expansion</string>
+    <string name="settings_accessibility_desc">Robocop needs Accessibility access to detect what you type and expand snippets in any app.</string>
+    <string name="settings_overlay_title">Enable quick-search bubble</string>
+    <string name="settings_overlay_desc">Allow Robocop to draw a floating search bubble over other apps to insert snippets on demand.</string>
+    <string name="settings_autocorrect_title">Auto-correct typos</string>
+    <string name="settings_autocorrect_desc">Automatically fix common typos as you type, without needing a trigger.</string>
+    <string name="open_settings">Open settings</string>
+    <string name="enabled">Enabled</string>
+    <string name="disabled">Disabled</string>
+</resources>
