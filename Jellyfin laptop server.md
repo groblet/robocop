@@ -1,0 +1,1 @@
+https://www.howtogeek.com/nobody-wanted-old-windows-10-laptop-made-a-free-jellyfin-server/
